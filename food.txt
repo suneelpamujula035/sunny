@@ -10,3 +10,6 @@ chicken kabab
 
 prawn biriyani
 mutton biriyani
+
+icecream
+kheer
