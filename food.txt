@@ -7,6 +7,8 @@ thandoori chicken
 grilled chicken
 chicken kabab
 
+pizza
+burger
 
 prawn biriyani
 mutton biriyani
@@ -14,4 +16,5 @@ mutton biriyani
 icecream
 kheer
 
+done my changes
 Thankyou :)
